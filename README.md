@@ -1,2 +1,2 @@
 # WarofRobots
-An AI created to control a robot trapped in a battlefield against other robots
+An winning robot created to control a robot trapped in a battlefield against other robots
